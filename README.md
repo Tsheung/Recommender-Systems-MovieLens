@@ -8,8 +8,8 @@ will predict movies based on the user’s previous data and users similar to the
 tools of evaluation and ability to compare performance.
 
 3 Models:
-<li>
-  <ul>Content-Based Filtering</ul>
-  <ul>Memory-Based Collaborative Filtering</ul>
-  <ul>Model-Based Collaborative Filtering</ul>
-</li>
+<ul>
+  <li>Content-Based Filtering</li>
+  <li>Memory-Based Collaborative Filtering</li>
+  <li>Model-Based Collaborative Filtering</li>
+</ul>
